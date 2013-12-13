@@ -14,3 +14,9 @@ Should be able to run on other platform as well, but no tested.
 6. '2' to stop the game
 7. '3' to look behind
 8. 'e' to have the AI to control the player runner
+
+
+Third Party Library Used: 
+
+* GLUT
+* TinyObjLoader
