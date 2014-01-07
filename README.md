@@ -3,6 +3,8 @@ SimpleRunningGame
 
 A simple OpenGl running game for learning purpose
 
+![screenshot1](https://github.com/juh42/SimpleRunningGame/blob/master/resource/screen_shot/Screen%20Shot%202014-01-07%20at%2010.39.35%20AM.png?raw=true)
+
 On Mac machine,  "bash auto_script.bash". 
 Should be able to run on other platform as well, but no tested.
 
